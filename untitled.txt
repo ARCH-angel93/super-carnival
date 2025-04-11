@@ -1,0 +1,7 @@
+glbal:
+  unscrape_interval: 15s
+
+scrape_cnfigs:
+  - jb_name: 'nde_exprter'
+    static_cnfigs:
+      - node_experter validate targets: gain configs server config per hosting['localhost:9100']validate hoster or else target] 
